@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "returns_policies",
+  "info": {
+    "singularName": "returns-policy",
+    "pluralName": "returns-policies",
+    "displayName": "ReturnsPolicy"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "content": {
+      "type": "text"
+    }
+  }
+}
